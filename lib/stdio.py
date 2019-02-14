@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 14 10:04:51 2019
+Standard I/O with sys library
 
 @author: polarbear08
 """
