@@ -4,8 +4,7 @@ author: polarbear08
 
 """
 
-# calculate initial hash value
-
+from math import sqrt
 
 def calculate_initial_hash():
     """Calculate initial 32byte hash."""
