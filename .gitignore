@@ -3,3 +3,7 @@
 
 # テキストファイル
 *.txt
+
+# PyCharm上の./ideaフォルダ
+/.idea/
+/lib/.idea/
